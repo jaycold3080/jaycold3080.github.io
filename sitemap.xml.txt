@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jaycold3080.tistory.com</loc>
+    <lastmod>2025-08-06</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jaycold3080.tistory.com/entry/2025-주민등록-사실조사-안-하면-어떻게-되나</loc>
+    <lastmod>2025-08-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
